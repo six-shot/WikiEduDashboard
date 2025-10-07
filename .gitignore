@@ -63,3 +63,4 @@ stats.json
 !.yarn/sdks
 !.yarn/versions
 
+config.bat
